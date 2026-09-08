@@ -15,3 +15,8 @@ const num3=22 //constantes globales
  let suma:number=num1+num2+num3
 
  console.log('La suma es: '+ suma)
+
+ let matricula:number|string
+ matricula = 12345678
+ matricula = "ABCDFGHI"
+ console.log(matricula)
