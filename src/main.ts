@@ -1,7 +1,12 @@
 import './style.css'
 //import './temasTS/01-tipos-bas.ts'
 //import './temasTS/02-obj-interfaz-arre.ts'
-import './temasTS/03.funciones.ts'
+// import './temasTS/03.funciones.ts'
+// import './temasTS/04-desestructuracion-obj-arre.ts'
+// import './temasTS/05-desestructuracion-funciones.ts'
+// import './temasTS/06-Importar-exportar.ts'
+import './temasTS/07-clases.ts'
+
 import heroImg from './assets/hero.png'
 import typescriptLogo from './assets/typescript.svg'
 import viteLogo from './assets/vite.svg'
